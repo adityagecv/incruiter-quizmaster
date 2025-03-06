@@ -37,7 +37,7 @@ Before running the project, ensure you have the following installed:
 2. **Install dependencies**
 
    ```bash
-   pnpm install  # or yarn install or npm install
+   pnpm install  # or yarn install or npm install --legacy-peer-deps
    ```
 
 3. **Run the development server**
